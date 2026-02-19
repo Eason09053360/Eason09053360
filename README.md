@@ -1,25 +1,11 @@
 ### Hi there 👋, I'm Eason!
 
-I'm a developer passionate about Cloud Technology and Open Source.
+I'm an Electrical Engineering student who prefers getting my hands dirty over writing generic developer introductions. 
 
----
+**What I actually do:**
+- **Hardware & DIY:** I love taking things apart and (usually) ：） putting them back together.
+- **Software & Open Source:** When my hands aren't full of hardware components, I write code and actively contribute to open-source projects. 
 
-### 🚀 Open Source Contributions
-
-I actively contribute to open source projects. Here are my recent highlights:
-
-* **[getmoto/moto](https://github.com/getmoto/moto)** (AWS Mocking Framework)
-    * Implemented `list_thing_principals_v2` for the AWS IoT backend to support V2 API specifications. ([PR #9635](https://github.com/getmoto/moto/pull/9635))
-
----
-
-### 🛠️ Languages and Tools
-* Python
-* Git / GitHub
-* AWS Cloud
-
----
-
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Eason09053360&show_icons=true&theme=radical" alt="Eason's Stats" />
-</p>
+**Off the keyboard:**
+- **Go (Weiqi/Baduk):** I'm a 6-dan player. (Turns out debugging complex code requires the exact same mindset as calculating Go variations).
+- **Badminton:** Always down for a good match to get away from the screen.
