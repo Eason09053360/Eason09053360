@@ -11,4 +11,4 @@ I'm an Electrical Engineering student who prefers getting my hands dirty over wr
 - **Badminton:** Always down for a good match to get away from the screen.
 
 ###  Certifications
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?logo=amazon-aws&logoColor=white)]([你的驗證連結網址](https://www.credly.com/users/yung-cheng-chen.202689b6))
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?logo=amazon-aws&logoColor=white)]([(https://www.credly.com/users/yung-cheng-chen.202689b6)])
