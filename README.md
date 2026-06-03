@@ -10,6 +10,6 @@ I'm an Electrical Engineering student who prefers getting my hands dirty over wr
 - **Go (Weiqi/Baduk):** I'm a 6-dan player. (Turns out debugging complex code requires the exact same mindset as calculating Go variations).
 - **Badminton:** Always down for a good match to get away from the screen.
 
-###  Certifications
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?logo=amazon-aws&logoColor=white)](https://www.credly.com/users/yung-cheng-chen.202689b6)
-[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?logo=amazon-aws&logoColor=white)](https://www.credly.com/users/yung-cheng-chen.202689b6)
+### Certifications
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/de8376ba-098d-49e8-a4d2-856dec15ff7b)
+[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?logo=amazon-aws&logoColor=white)](https://www.credly.com/earner/earned/badge/18cf7b79-f907-4214-9b26-cfee3ae07c83)
