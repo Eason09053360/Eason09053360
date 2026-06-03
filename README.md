@@ -12,3 +12,4 @@ I'm an Electrical Engineering student who prefers getting my hands dirty over wr
 
 ###  Certifications
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?logo=amazon-aws&logoColor=white)](https://www.credly.com/users/yung-cheng-chen.202689b6)
+[![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-232F3E?logo=amazon-aws&logoColor=white)](https://www.credly.com/users/yung-cheng-chen.202689b6)
